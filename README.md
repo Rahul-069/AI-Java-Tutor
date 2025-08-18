@@ -15,10 +15,13 @@ It provides a chat-based learning experience, progress dashboards, and interacti
 ---
 
 ## 📂 Project Structure
+```
 AI-Java-Tutor/
-├── javaaitutor.py # Main application code (Gradio app + AI Tutor logic)
-├── requirements.txt # List of dependencies
-└── README.md # Project documentation
+├── javaaitutor.py      # Main application code (Gradio app + AI Tutor logic)
+├── requirements.txt    # List of dependencies
+└── README.md           # Project documentation
+```
+
 
 ---
 
