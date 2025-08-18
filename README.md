@@ -38,7 +38,7 @@ AI-Java-Tutor/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/AI-Java-Tutor.git
+git clone https://github.com/<Rahul-069>/AI-Java-Tutor.git
 cd AI-Java-Tutor
 ```
 
