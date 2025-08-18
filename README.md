@@ -40,6 +40,7 @@ AI-Java-Tutor/
 ```bash
 git clone https://github.com/<your-username>/AI-Java-Tutor.git
 cd AI-Java-Tutor
+```
 
 ### 2️⃣ **Install dependencies**
 Run this in your Python environment:
