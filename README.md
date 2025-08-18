@@ -20,7 +20,6 @@ AI-Java-Tutor/
 ├── javaaitutor.py # Main application code (Gradio app + AI Tutor logic)
 ├── requirements.txt # List of dependencies
 └── README.md # Project documentation
-
 ---
 
 ## 🚀 Getting Started
