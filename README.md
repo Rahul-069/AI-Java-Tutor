@@ -27,29 +27,34 @@ AI-Java-Tutor/
 
 ## 🚀 Getting Started
 
-🛠 Requirements
+### 📌 Requirements
+- Python 3.8+
+- Gradio  
+- Torch with CUDA (recommended for GPU acceleration)  
+- Transformers  
+- Accelerate  
 
-Python 3.8+
-Gradio
-Torch with CUDA (recommended for GPU acceleration)
-transformers
-accelerate
+---
 
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/<your-username>/AI-Java-Tutor.git
 cd AI-Java-Tutor
 
-2️⃣ Install dependencies
+### 2️⃣ **Install dependencies**
 Run this in your Python environment:
+```
 pip install -r requirements.txt
+```
 
-3️⃣ Run the app
+### 3️⃣ **Run the app**
+```
 python javaaitutor.py
+```
 
-Note: If running on Google Colab, open the notebook version, change the runtime to T4 GPU and run all cells — a public Gradio link will be generated automatically.
-
----
+📌 Note:
+If running on Google Colab, open the notebook version, set runtime to T4 GPU, and run all cells.
+Gradio will provide a public link to access the app.
 
 ## 🙌 Conclusion
 This project demonstrates how AI models can be integrated with Gradio to create an interactive Java tutoring system.  
