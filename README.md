@@ -53,7 +53,7 @@ pip install -r requirements.txt
 python javaaitutor.py
 ```
 
-##📌 **Note:**
+## 📌 **Note:**
 If running on Google Colab, open the notebook version, set runtime to T4 GPU, and run all cells.
 Gradio will provide a public link to access the app.
 
